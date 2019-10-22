@@ -1,5 +1,5 @@
 {
-  "name": "electron-devtools-installer",
+  "name": "electron-devtools-installer-good",
   "version": "2.2.4",
   "description": "An easy way to install Dev Tools extensions into Electron applications",
   "main": "dist/index.js",
@@ -18,17 +18,13 @@
     "tools"
   ],
   "author": {
-    "name": "Samuel Attard",
-    "email": "samuel.r.attard@gmail.com",
-    "url": "www.samuelattard.com"
-  },
-  "bugs": {
-    "url": "https://github.com/GPMDP/electron-devtools-installer/issues"
+    "name": "Praneet Rohida",
+    "email": "praneetrohida@gmail.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GPMDP/electron-devtools-installer.git"
+    "url": "https://github.com/praneetrohida/electron-devtools-installer"
   },
   "devDependencies": {
     "babel": "^6.5.2",
